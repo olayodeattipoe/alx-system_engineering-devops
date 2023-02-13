@@ -1,1 +1,1 @@
-0. Hello World - A scirpt that prints hello world
+0. HEllo WOrld -A script that prints Hello World
