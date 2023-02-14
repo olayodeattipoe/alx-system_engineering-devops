@@ -2,3 +2,4 @@
 1.Confused Smiley
 2.Lets display a file
 What about 2
+4-lastlines
